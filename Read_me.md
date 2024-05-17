@@ -19,9 +19,7 @@ This course is a continuation of Data Analysis Phase 1 and builds upon the found
 -   Introduction to SQL
 -   Introduction to Git
 
-**Prerequisites:**
 
-Anyone can join us into this venture. It is generally recommended to have some understanding of fundamental data analysis concepts or cover the phase 1 of this course.
 
 **Content:**
 
